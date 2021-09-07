@@ -40,6 +40,7 @@ public class MainEstudiante {
 					
 					boolean resultado = estudiante.contains(numero);
 					System.out.println("Contiene al estudiante: " + resultado);	
+					
 				}
 			}
 		}
