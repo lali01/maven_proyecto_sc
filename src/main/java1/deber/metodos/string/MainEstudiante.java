@@ -41,14 +41,6 @@ public class MainEstudiante {
 					boolean resultado = estudiante.contains(numero);
 					System.out.println("Contiene al estudiante: " + resultado);
 					
-//					String frase = "Programacion de algoritmos modulo 2 ";
-//
-//					Scanner in = new Scanner(System.in);
-//					System.out.println("Ingrese el nombre del libro");
-//					String palabra = in.nextLine();
-//
-//					boolean resultado = frase.contains(palabra);
-//					System.out.println("Contiene la palabra: " + resultado)		
 				}
 			}
 		}
