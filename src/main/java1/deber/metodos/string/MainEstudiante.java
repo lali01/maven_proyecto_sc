@@ -39,8 +39,7 @@ public class MainEstudiante {
 					String estudiante = "";
 					
 					boolean resultado = estudiante.contains(numero);
-					System.out.println("Contiene al estudiante: " + resultado);
-					
+					System.out.println("Contiene al estudiante: " + resultado);	
 				}
 			}
 		}
