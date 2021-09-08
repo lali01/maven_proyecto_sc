@@ -4,11 +4,6 @@ public class Estudiante {
 
 	
 	private String cedula;
-	private String nombre;
-	public static String pais = "Ecuador";
-	public static String provincia = "Pichincha";
-	
-	
 	
 	public String getCedula() {
 		return cedula;
